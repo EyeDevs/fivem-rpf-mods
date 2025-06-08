@@ -20,6 +20,16 @@
     "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/exp_ammo.rpf"
   },
   {
+    "Name": "Hurtig Løb",
+    "Type": "RPF",
+    "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/Fastrun.rpf"
+  },
+   {
+    "Name": "Inf Stamina",
+    "Type": "RPF",
+    "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/inf_stamina.rpf"
+  },
+  {
     "Name": "Flyv på Cykel",
     "Type": "RPF",
     "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/flying_bmx.rpf"

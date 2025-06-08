@@ -24,10 +24,35 @@
     "Type": "RPF",
     "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/Fastrun.rpf"
   },
-   {
+  {
+    "Name": "Ingen Fall DMG",
+    "Type": "RPF",
+    "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/nofalldmg.rpf"
+  },
+  {
     "Name": "Inf Stamina",
     "Type": "RPF",
     "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/inf_stamina.rpf"
+  },
+  {
+    "Name": "Ingen recoil",
+    "Type": "META",
+    "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/pedaccuracy.meta"
+  },
+  {
+    "Name": "Aimbot",
+    "Type": "RPF",
+    "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/aimbot.rpf"
+  },
+  {
+    "Name": "Godmode",
+    "Type": "META",
+    "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/healthconfig.meta"
+  },
+  {
+    "Name": "Hurtige Skyd",
+    "Type": "RPF",
+    "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/FireRate.rpf"
   },
   {
     "Name": "Flyv på Cykel",
@@ -35,7 +60,7 @@
     "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/flying_bmx.rpf"
   },
   {
-    "Name": "Staerk bil",
+    "Name": "Stark bil",
     "Type": "RPF",
     "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/strong_car.rpf"
   },

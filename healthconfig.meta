@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHealthConfigInfoManager>
+  <aHealthConfig>
+    <Item>
+      <Name>Strong</Name>
+      <DefaultHealth value="200.000000" />
+      <DefaultArmour value="0.000000" />
+      <FatiguedHealthThreshold value="150.000000" />
+      <InjuredHealthThreshold value="100.000000" />
+      <DyingHealthThreshold value="100.000000" />
+      <HurtHealthThreshold value="150.000000" />
+	  <DogTakedownThreshold value="150.000000" />
+	  <MeleeCardinalFatalAttackCheck value="false" />
+    </Item>
+	<Item>
+      <Name>Average</Name>
+      <DefaultHealth value="175.000000" />
+      <DefaultArmour value="10000000000.000000" />
+      <FatiguedHealthThreshold value="137.500000" />
+      <InjuredHealthThreshold value="100.000000" />
+      <DyingHealthThreshold value="100.000000" />
+      <HurtHealthThreshold value="125.000000" />
+	  <DogTakedownThreshold value="150.000000" />
+	  <MeleeCardinalFatalAttackCheck value="false" />
+    </Item>
+	<Item>
+      <Name>Weak</Name>
+      <DefaultHealth value="150.000000" />
+      <DefaultArmour value="000.000000" />
+      <FatiguedHealthThreshold value="125.000000" />
+      <InjuredHealthThreshold value="100.000000" />
+      <DyingHealthThreshold value="100.000000" />
+      <HurtHealthThreshold value="135.000000" />
+	  <DogTakedownThreshold value="150.000000" />
+	  <MeleeCardinalFatalAttackCheck value="true" />
+	</Item>
+	<Item>
+	  <Name>Animal</Name>
+	  <DefaultHealth value="150.000000" />
+	  <DefaultArmour value="000.000000" />
+	  <FatiguedHealthThreshold value="125.000000" />
+	  <InjuredHealthThreshold value="100.000000" />
+	  <DyingHealthThreshold value="100.000000" />
+	  <HurtHealthThreshold value="135.000000" />
+	  <DogTakedownThreshold value="150.000000" />
+	  <MeleeCardinalFatalAttackCheck value="false" />
+	</Item>
+    <Item>
+      <Name>Armour</Name>
+      <DefaultHealth value="200.000000" />
+      <DefaultArmour value="100.000000" />
+      <FatiguedHealthThreshold value="120.000000" />
+      <InjuredHealthThreshold value="100.000000" />
+      <DyingHealthThreshold value="100.000000" />
+      <HurtHealthThreshold value="150.000000" />
+	  <DogTakedownThreshold value="150.000000" />
+	  <MeleeCardinalFatalAttackCheck value="false" />
+    </Item>
+    <Item>
+      <Name>GULL</Name>
+      <DefaultHealth value="10.000000" />
+      <DefaultArmour value="0.000000" />
+      <FatiguedHealthThreshold value="3.000000" />
+      <InjuredHealthThreshold value="2.000000" />
+      <DyingHealthThreshold value="2.000000" />
+      <HurtHealthThreshold value="4.000000" />
+	  <DogTakedownThreshold value="2.000000" />
+	  <MeleeCardinalFatalAttackCheck value="true" />
+    </Item>
+    <Item>
+      <Name>Fish</Name>
+      <DefaultHealth value="10.000000" />
+      <DefaultArmour value="000.000000" />
+      <FatiguedHealthThreshold value="3.000000" />
+      <InjuredHealthThreshold value="2.000000" />
+      <DyingHealthThreshold value="2.000000" />
+      <HurtHealthThreshold value="4.000000" />
+      <DogTakedownThreshold value="2.000000" />
+      <MeleeCardinalFatalAttackCheck value="false" />
+    </Item>
+	<Item>
+      <Name>Rat</Name>
+      <DefaultHealth value="10.000000" />
+      <DefaultArmour value="000.000000" />
+      <FatiguedHealthThreshold value="3.000000" />
+      <InjuredHealthThreshold value="2.000000" />
+      <DyingHealthThreshold value="2.000000" />
+      <HurtHealthThreshold value="4.000000" />
+      <DogTakedownThreshold value="2.000000" />
+      <MeleeCardinalFatalAttackCheck value="false" />
+    </Item>
+    <Item>
+      <Name>Shark</Name>
+      <DefaultHealth value="200.000000" />
+      <DefaultArmour value="0.000000" />
+      <FatiguedHealthThreshold value="150.000000" />
+      <InjuredHealthThreshold value="100.000000" />
+      <DyingHealthThreshold value="100.000000" />
+      <HurtHealthThreshold value="150.000000" />
+      <DogTakedownThreshold value="150.000000" />
+      <MeleeCardinalFatalAttackCheck value="false" />
+    </Item>
+    <Item>
+      <Name>Humpback</Name>
+      <DefaultHealth value="800.000000" />
+      <DefaultArmour value="0.000000" />
+      <FatiguedHealthThreshold value="150.000000" />
+      <InjuredHealthThreshold value="100.000000" />
+      <DyingHealthThreshold value="100.000000" />
+      <HurtHealthThreshold value="150.000000" />
+      <DogTakedownThreshold value="150.000000" />
+      <MeleeCardinalFatalAttackCheck value="false" />
+	  <Invincible value="true" />
+    </Item>
+  </aHealthConfig>
+  <DefaultSet ref="Average" />
+</CHealthConfigInfoManager>

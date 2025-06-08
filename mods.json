@@ -50,6 +50,11 @@
     "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/healthconfig.meta"
   },
   {
+    "Name": "Hurtig Reload",
+    "Type": "META",
+    "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/weaponanimations.meta"
+  },
+  {
     "Name": "Hurtige Skyd",
     "Type": "RPF",
     "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/FireRate.rpf"

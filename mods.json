@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Fast NPC Cars",
+    "Type": "RPF",
+    "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/Fast_NPC_Cars.rpf"
+  },
+  {
+    "Name": "AI Cops Behavior",
+    "Type": "META",
+    "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/cops.meta"
+  },
+  {
+    "Name": "EUP Uniforms",
+    "Type": "RPF",
+    "DownloadPath": "https://github.com/EyeDevs/fivem-rpf-mods/raw/main/EUP_Police.rpf"
+  }
+]
